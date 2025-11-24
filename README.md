@@ -1,6 +1,6 @@
 # YouTube Trending Videos Analytics (500 mb Dataset) – End-to-End Data Analysis + ML
 
-> This project analyzes 12GB of YouTube Trending data to uncover what makes videos viral using advanced EDA, NLP, visualization, SEO insights, and ML models.
+> This project analyzes of YouTube Trending data to uncover what makes videos viral using advanced EDA, NLP, visualization, SEO insights, and ML models.
 
 ---
 
